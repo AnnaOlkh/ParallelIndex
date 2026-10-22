@@ -1,0 +1,9 @@
+/build*/
+/results/*
+!/results/.gitkeep
+__pycache__/
+/corpus/
+/output/
+/tmp/
+~$*
+*.zip
